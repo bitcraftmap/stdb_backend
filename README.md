@@ -13,4 +13,5 @@ What hosting service can we use ?
 - Automatic configuration of host
 - Automatic installation of spacetimedb (ansible?)
 - Automatic configuration of spacetimedb
-- Monitoring ? backup ? 
+- Monitoring ? backup ?
+- CICD tool -> github actions ? 
