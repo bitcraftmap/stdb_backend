@@ -8,3 +8,9 @@ The plan is :
 bitcraft STDB -> backend STDB -> Frontend made with type script
 
 What hosting service can we use ? 
+
+- Automatic building and destruction of instance (Terraform)
+- Automatic configuration of host
+- Automatic installation of spacetimedb (ansible?)
+- Automatic configuration of spacetimedb
+- Monitoring ? backup ? 
